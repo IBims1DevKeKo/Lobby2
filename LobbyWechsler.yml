@@ -22,7 +22,7 @@ Platz:
     Itemname: '&cLobby-5 &4Offline'
   Sechs:
     Servername: Lobby-6
-    Item: DIAMOND
+    Item: REDSTONE
     Itemname: '&cLobby-6 &4Offline'
   Sieben:
     Servername: Lobby-7
@@ -34,5 +34,5 @@ Platz:
     Itemname: '&cLobby-8 &4Offline '
   Neun:
     Servername: Lobby-9
-    Item: REDSTONE
+    Item: DIAMOND
     Itemname: '&5VIP&7-&aLobby-9 &aOnline'
