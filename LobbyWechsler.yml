@@ -6,8 +6,8 @@ Platz:
     Itemname: '&7Du bist hier&4!'
   Zwei:
     Servername: Lobby-2
-    Item: EMERALD
-    Itemname: '&2Lobby-2 &aOnline'
+    Item: REDSTONE
+    Itemname: '&cLobby-2 &4Offline'
   Drei:
     Servername: Lobby-3
     Item: REDSTONE
