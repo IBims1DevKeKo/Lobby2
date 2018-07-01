@@ -1,0 +1,38 @@
+# Bitte Servernamen richtg schreiben!
+Platz:
+  Eins:
+    Servername: Lobby-1
+    Item: BLAZE_POWDER
+    Itemname: '&7Du bist hier&4!'
+  Zwei:
+    Servername: Lobby-2
+    Item: EMERALD
+    Itemname: '&2Lobby-2 &aOnline'
+  Drei:
+    Servername: Lobby-3
+    Item: REDSTONE
+    Itemname: '&cLobby-3 &4Offline'
+  Vier:
+    Servername: Lobby-4
+    Item: REDSTONE
+    Itemname: '&cLobby-4 &4Offline'
+  Fuenf:
+    Servername: Lobby-5
+    Item: REDSTONE
+    Itemname: '&cLobby-5 &4Offline'
+  Sechs:
+    Servername: Lobby-6
+    Item: DIAMOND
+    Itemname: '&5VIP&7-&9Lobby &aOnline'
+  Sieben:
+    Servername: Lobby-7
+    Item: REDSTONE
+    Itemname: '&cLobby-7 &4Offline '
+  Acht:
+    Servername: Lobby-8
+    Item: REDSTONE
+    Itemname: '&cLobby-8 &4Offline '
+  Neun:
+    Servername: Lobby-9
+    Item: REDSTONE
+    Itemname: '&cLobby-9 &4Offline'

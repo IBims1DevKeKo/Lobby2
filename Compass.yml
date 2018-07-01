@@ -1,0 +1,108 @@
+Item_1:
+  Item: IRON_SWORD
+  Command: /warp knbffa
+  Name: '&7Zu &cKnockBack&4FFA'
+Item_2:
+  Item: GRASS
+  Command: /warp sb
+  Name: '&7Zu &e&lS&6ky&e&lB&6lock'
+Item_3:
+  Item: MAGMA_CREAM
+  Command: /warp spawn
+  Name: '&7Zu &aSpawn'
+Item_4:
+  Item: BED
+  Command: /warp bedwars
+  Name: '&7Zu &4Bed&fWars'
+Item_5:
+  Item: IRON_SWORD
+  Command: /warp sg4
+  Name: '&7Zu &aSurvival&4Games&7-&54'
+Item_6:
+  Item: STICK
+  Command: /warp lw
+  Name: '&7Zu &aLine&dWars'
+Item_7:
+  Item: WOOL
+  Command: /warp sw
+  Name: '&7Zu &aSheep&dWars'
+Item_8:
+  Item: BARRIER
+  Command: /warp Comming Soon
+  Name: '&cComming Soon'
+Item_9:
+  Item: SKULL_ITEM
+  Command: /warp team
+  Name: '&7Zum &aTeam'
+Item_10:
+  Item: ANVIL
+  Command: /warp anvil
+  Name: '&7Zu &aAnvil'
+Item_11:
+  Item: EMERALD
+  Command: /warp Shop
+  Name: '&7Zu &aShop'
+Item_12:
+  Item: GOLD_INGOT
+  Command: /warp goldwars
+  Name: '&7Zu &aGoldWars '
+Item_13:
+  Item: STONE
+  Command: /warp sw
+  Name: '&7Zu &8Stone&fWars '
+Item_14:
+  Item: REDSTONE_BLOCK
+  Command: /warp gs
+  Name: '&7Zu der &6&lGS&7-&eWelt '
+Item_15:
+  Item: BEACON
+  Command: /warp bw
+  Name: '&7Zu &4Beac&dWars '
+Item_16:
+  Item: STAINED_GLASS_PANE
+  Command: /warp goldwars
+  Name: '&7 '
+Item_17:
+  Item: STAINED_GLASS_PANE
+  Command: /warp goldwars
+  Name: '&7 '
+Item_18:
+  Item: STAINED_GLASS_PANE
+  Command: /warp goldwars
+  Name: '&7 '
+Item_19:
+  Item: STAINED_GLASS_PANE
+  Command: /warp goldwars
+  Name: '&7 '
+Item_20:
+  Item: STAINED_GLASS_PANE
+  Command: /warp goldwars
+  Name: '&7 '
+Item_21:
+  Item: STAINED_GLASS_PANE
+  Command: /warp goldwars
+  Name: '&7 '
+Item_22:
+  Item: STAINED_GLASS_PANE
+  Command: /warp goldwars
+  Name: '&7 '
+Item_23:
+  Item: STAINED_GLASS_PANE
+  Command: /warp goldwars
+  Name: '&7 '
+Item_24:
+  Item: STAINED_GLASS_PANE
+  Command: /warp goldwars
+  Name: '&7 '
+Item_25:
+  Item: STAINED_GLASS_PANE
+  Command: /warp goldwars
+  Name: '&7 '
+Item_26:
+  Item: STAINED_GLASS_PANE
+  Command: /warp goldwars
+  Name: '&7 '
+Item_27:
+  Item: STAINED_GLASS_PANE
+  Command: /warp goldwars
+  Name: '&7 '

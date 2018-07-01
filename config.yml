@@ -1,0 +1,75 @@
+# %pr% = Lobby Prefix 
+#  %p% = Spielername  
+#  DER DISPLAY IST DER NICK CHAT NUR OHNE : UND %MESSAGE%!!!! 
+
+Lobby:
+  Prefix: '&7[&e&lS&6ky&e&lF&6lamme&7.&4&lDE&7]'
+  Silenthub_Server: Silenthub
+  NoPerm: '%pr% &cDu darfst das nicht!'
+  Command:
+    Warp_Message: true
+    Warp: '%pr% &7Du bist nun bei &e%WARP%'
+    FlyOn: '%pr% &7Du kannst nun Fliegen!'
+    FlyOff: '%pr% &7Du kannst nun nicht mehr Fliegen!'
+    GM_Use: '%pr% &cSyntax: &7/gm <0-3>'
+    GM_0: '%pr% &7Dein Gamemode wurde auf &2Survival &7gesetzt!'
+    GM_1: '%pr% &7Dein Gamemode wurde auf &2Kreativ &7gesetzt!'
+    GM_2: '%pr% &7Dein Gamemode wurde auf &2Adventure &7gesetzt!'
+    GM_3: '%pr% &7Dein Gamemode wurde auf &2Spectator &7gesetzt!'
+    Lobby: '%pr% &7Lobby was coded by &bMiningMaurice'
+    Lobby_reload: '%pr% &aDie Config wurde Reloaded'
+    ChatClear: '%pr% &7Der Chat wurde von &c%p% &7geleert!'
+    Build_On: '%pr% &aDu bist nun im Build-Mode'
+    Build_Off: '%pr% &cDu bist nun nicht mehr im Build-Mode'
+    TeamSpeak: '%pr% &aUnser TS&8: &7ts.deinservername.net'
+    YouTube: '%pr% &7Lieber &a%p% &aDen &5YT &aRang vergeben wir, wenn du 25000 &5Abonnenten
+      &ahast!'
+    Info: '%pr% &eNeu! &6&lGS&7-&eWelt'
+    AFK_On: '%pr% Der Spieler &a%p% &7ist nun AFK'
+    AFK_Off: '%pr% Der Spieler &c%p% &7ist nun nicht mehr AFK'
+    Spawn_wurde_nicht_gesetzt: '%pr% &cDer Spawn wurde noch nicht gesetzt!'
+  MOTD: "&aLobby \n <- &6Steht fur die Zweite Zeile"
+  Im_Code: '%pr% &cDieses Feature folgt noch!'
+Chatformat:
+  Admin: '&4Admin : %player%: &f%message%'
+  Dev: '&bDev : %player%: &f%message%'
+  SrMod: '&cSrMod : %player%: &f%message%'
+  Mod: '&cMod : %player%: &f%message%'
+  Sup: '&9Sup : %player%: &f%message%'
+  Youtuber: '&5%player%: &f%message%'
+  Premium+: '&6%player%: &f%message%'
+  Premium: '&6%player%: &f%message%'
+  Spieler: '&8%player%: &f%message%'
+Display:
+  Admin: '&4%p%'
+  Dev: '&b%p%'
+  SrMod: '&c%p%'
+  Mod: '&c%p%'
+  Sup: '&9%p%'
+  YouTuber: '&5%p%'
+  Premium+: '&6%p%'
+  Premium: '&6%p%'
+  Spieler: '&8%p%'
+Tablist:
+  Text_Enable: true
+  Header: "&eSERVERNAME.DE %z% f\xfcr eine neue Zeile"
+  Footer: '&6JETZT &6&lPREMIUM &6KAUFEN %z% &7SHOP.SERVERNAME.DE'
+  Admin: '&4Admin &7| &4%p%'
+  Dev: '&bDev &7| &b%p%'
+  SrMod: '&cSrMod &7| &c%p%'
+  Mod: '&cMod &7| &c%p%'
+  Sup: '&9Sup &7| &9%p%'
+  YouTuber: '&5%p%'
+  Premium+: '&e%p%'
+  Premium: '&6%p%'
+  Spieler: '&8%p%'
+Item:
+  PlayerHider:
+    'On': '%pr% &7Du hast alle &cSpieler &7versteckt'
+    VIP_Only: '%pr% &7Du hast alle &5Spieler &7 VIP''s angezeigt'
+    'Off': '%pr% &7Du hast alle &aSpieler &7angezeigt'
+  Freundes_Command: /warp sb
+  LobbyWechsler:
+    Enable: true
+Addon_Nick:
+  ENABLED: true
