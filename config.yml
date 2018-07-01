@@ -52,7 +52,7 @@ Display:
   Spieler: '&8%p%'
 Tablist:
   Text_Enable: true
-  Header: "&eSERVERNAME.DE %z% f\xfcr eine neue Zeile"
+  Header: "&e&lS&6ky&e&lF&6lamme&7.&4&lDE %z%"
   Footer: '&6JETZT &6&lPREMIUM &6KAUFEN %z% &7SHOP.SERVERNAME.DE'
   Admin: '&4Admin &7| &4%p%'
   Dev: '&bDev &7| &b%p%'
@@ -68,7 +68,7 @@ Item:
     'On': '%pr% &7Du hast alle &cSpieler &7versteckt'
     VIP_Only: '%pr% &7Du hast alle &5Spieler &7 VIP''s angezeigt'
     'Off': '%pr% &7Du hast alle &aSpieler &7angezeigt'
-  Freundes_Command: /warp sb
+  Freundes_Command: /friends
   LobbyWechsler:
     Enable: true
 Addon_Nick:
