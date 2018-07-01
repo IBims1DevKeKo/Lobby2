@@ -1,7 +1,7 @@
 Item_1:
   Item: GOLD_INGOT
-  Command: /warp sw
-  Name: '&7Zu &aSky&4Wars'
+  Command: /warp sf
+  Name: '&7Zu &aSky&4&lFactions'
 Item_2:
   Item: GRASS
   Command: /warp sb
