@@ -16,7 +16,7 @@ Lobby:
     GM_1: '%pr% &7Dein Gamemode wurde auf &2Kreativ &7gesetzt!'
     GM_2: '%pr% &7Dein Gamemode wurde auf &2Adventure &7gesetzt!'
     GM_3: '%pr% &7Dein Gamemode wurde auf &2Spectator &7gesetzt!'
-    Lobby: '%pr% &7Lobby was coded by &bMiningMaurice'
+    Lobby: '%pr% &7Du bist bereits in der &5Lobby'
     Lobby_reload: '%pr% &aDie Config wurde Reloaded'
     ChatClear: '%pr% &7Der Chat wurde von &c%p% &7geleert!'
     Build_On: '%pr% &aDu bist nun im Build-Mode'
