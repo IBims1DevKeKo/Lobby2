@@ -1,7 +1,7 @@
 Item_1:
-  Item: IRON_SWORD
-  Command: /warp knbffa
-  Name: '&7Zu &cKnockBack&4FFA'
+  Item: GOLD_INGOT
+  Command: /warp sw
+  Name: '&7Zu &aSky&4Wars'
 Item_2:
   Item: GRASS
   Command: /warp sb
