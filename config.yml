@@ -52,8 +52,8 @@ Display:
   Spieler: '&8%p%'
 Tablist:
   Text_Enable: true
-  Header: "&e&lS&6ky&e&lF&6lamme&7.&4&lDE %z%"
-  Footer: '&6JETZT &6&lPREMIUM &6KAUFEN %z% &7SHOP.SERVERNAME.DE'
+  Header: "&e&lS&6ky&e&lF&6lamme&7.&e&lEU %z%"
+  Footer: '&7TS&8: &4Ts.SkyFlamme.EU %z% &7Store.SkyFlamme.eu'
   Admin: '&4Admin &7| &4%p%'
   Dev: '&bDev &7| &b%p%'
   SrMod: '&cSrMod &7| &c%p%'
